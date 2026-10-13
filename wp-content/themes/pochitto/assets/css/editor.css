@@ -1,5 +1,0 @@
-/* ブロックエディター用の簡易スタイル */
-body { font-family: "Noto Sans JP", sans-serif; color: #333; line-height: 1.9; }
-h2 { font-size: 1.5em; padding: .4em .8em; border-left: 6px solid #29ABE2; background: #EEF8FD; border-radius: 0 12px 12px 0; }
-h3 { font-size: 1.25em; border-bottom: 2px dashed #29ABE2; padding-bottom: .3em; }
-a { color: #0071A4; }
